@@ -6,17 +6,31 @@ O LanCap é um software open source, criado para legendar vídeos para libras e 
 ## Vídeo de demonstrativo
 [![Clique para ver o vídeo](screenshot.png)](https://www.youtube.com/watch?v=7qWeG6pOeDE)
 
-## Instalação, Tecnologias e Depedências
-
 ### Requisitos
 - Python>=3
 - pip>=3
 - Apache - qualquer versão
 - Linux(ainda)
+- ffmpeg
+
+## Instalação, Tecnologias e Depedências
+**No desenvolvimento foi usado o Python3, com o linux mint 19.2**
+Commando uname -a:
+```
+Linux joandeson 4.15.0-46-generic #49-Ubuntu SMP Wed Feb 6 09:33:07 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+```
 
 ### Depedências
+#### Bibliotecas do Python
 ```
 python3 -m pip install -r requerimentos.txt
+```
+#### FFMPEG
+[Artigo ensinando como instalar](https://www.edivaldobrito.com.br/como-instalar-o-ffmpeg-no-ubuntu/)
+```
+sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-next
+sudo apt-get update
+sudo apt-get install ffmpeg
 ```
 
 ### Tecnologias
