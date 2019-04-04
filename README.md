@@ -13,6 +13,7 @@ Obrigado!!!
 1. Python>=3
 2. pip>=3
 3. Apache - qualquer versão
+4. Linux(ainda)
 
 ### Depedências
 ´´´
