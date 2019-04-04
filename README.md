@@ -10,10 +10,10 @@ Obrigado!!!
 ## Instalação, Tecnologias e Depedências
 
 ### Requisitos
-1. Python>=3
-2. pip>=3
-3. Apache - qualquer versão
-4. Linux(ainda)
+- Python>=3
+- pip>=3
+- Apache - qualquer versão
+- Linux(ainda)
 
 ### Depedências
 ```
@@ -21,17 +21,17 @@ python3 -m pip install -r requerimentos.txt
 ```
 
 ### Tecnologias
-1. Google Speech-To-Text [API de Deep Learning da Google para reconhecimento e transcrição de fala](https://cloud.google.com/gcp/)
-2. Google Translate [API de Deep Learning da Google para tradução simultânea de línguagens](https://cloud.google.com/translate/)
-3. ffmpeg [Software para tratamento de áudio](https://ffmpeg.org/)
+- Google Speech-To-Text [API de Deep Learning da Google para reconhecimento e transcrição de fala](https://cloud.google.com/gcp/)
+- Google Translate [API de Deep Learning da Google para tradução simultânea de línguagens](https://cloud.google.com/translate/)
+- ffmpeg [Software para tratamento de áudio](https://ffmpeg.org/)
 
 ### Google Cloud
 Acesse: [Google Cloud](https://cloud.google.com/)
 1. Faça uma conta no Google Cloud.
 2. Ative a API Speech-To-Text e Translate em seu console Google Cloud.
 ´´´
-1. Insira sua key no arquivo credenciais.json na chave 'apiKeyGoogleCloud'.
-2. Crie uma autenticação de API no Google Cloud, [Artigo ensinado](https://cloud.google.com/video-intelligence/docs/common/auth?hl=pt-br), baixe sua atenticação em json, e copie seu conteúdo para o arquivo credenciais.json.
+3. Insira sua key no arquivo credenciais.json na chave 'apiKeyGoogleCloud'.
+4. Crie uma autenticação de API no Google Cloud, [Artigo ensinado](https://cloud.google.com/video-intelligence/docs/common/auth?hl=pt-br), baixe sua atenticação em json, e copie seu conteúdo para o arquivo credenciais.json.
 ´´´
 
 ### Hand Talk API Libras
