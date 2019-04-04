@@ -5,7 +5,7 @@ O LanCap é um software open source, criado para legendar vídeos para libras e 
 Obrigado!!!
 
 ## Vídeo de demonstrativo
-[![Clique para ver o vídeo](screenshot/screenshot.png)](https://www.youtube.com/watch?v=7qWeG6pOeDE)
+[![Clique para ver o vídeo](screenshot.png)](https://www.youtube.com/watch?v=7qWeG6pOeDE)
 
 ## Instalação, Tecnologias e Depedências
 
