@@ -41,7 +41,7 @@ Após a criação da sua conta, configure conforme dito no parágrafo 'Renderiza
 ## Executando o programa
 Após a instalação das depedências e configurações execute o programa usando o seguinte comando:
 ```
-python3 lancap.py <local_do_video/nome_do_video.mp4>(recomendado colocar o vídeo para dentro da pasta do programa e executa somente com o <nome_do_video.mp4>)
+python3 lancap.py <local_do_video/nome_do_video.mp4>(É recomendado copiar o vídeo para dentro da pasta do programa e executar somente com o <nome_do_video.mp4>)
 ```
 
 ## Renderização
