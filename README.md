@@ -67,8 +67,7 @@ A empresa, premiada internacionalmente e referência no segmento, é comandada p
 Antes de tudo preciso elogiar a equipe do Hand Talk, nunca vi uma empresa tão prestativa com os seus desenvolvedores, o suporte da Hand Talk é surreal, em menos de 5 minutos eles respondem a pergunta sempre com ótimas soluções. E principalmente quando entrei em contato relatando sobre meu interesse acadêmico para com sua API, mesmo sendo uma API feita para empresas com um valor relativamente alto, a Hand Talk me possibilitou usar sua API para o desenvolvimento, conclusão e coleta de resultados. 
 
 Nesse exemplo usei a API Trial de 15 dias, já que a API do [VLibras](http://www.vlibras.gov.br/) esta fora do ar nesta data de escrita do artigo, dia 04/04/2019 as 23:49m. Para criar uma conta você precisa entrar em contato com a equipe pedindo acesso a sua plataforma usando o trial. Acesse [Hand Talk](https://handtalk.me/).
-Após a criação da sua conta, configure conforme dito no parágrafo '[Ren
-derização](https://github.com/joandesonandrade/lancap/blob/master/README.md#renderização)', copie seu token para o arquivo credenciais.json na chave 'apiHandTalk'.
+Após a criação da sua conta, configure conforme dito no parágrafo '[Renderização](https://github.com/joandesonandrade/lancap/blob/master/README.md#renderização)', copie seu token para o arquivo credenciais.json na chave 'apiHandTalk'.
 
 ## Executando o programa
 Após a instalação das depedências e configurações execute o programa usando o seguinte comando:
