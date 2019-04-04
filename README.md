@@ -10,9 +10,9 @@ Obrigado!!!
 ## Instalação, Tecnologias e Depedências
 
 ### Requisitos
-a- Python>=3
-b- pip>=3
-c- Apache - qualquer versão
+1. Python>=3
+2. pip>=3
+3. Apache - qualquer versão
 
 ### Depedências
 ´´´
@@ -24,11 +24,11 @@ Google Translate [API de Deep Learning da Google para tradução simultânea de 
 
 ### Google Cloud
 Acesse: [Google Cloud](https://cloud.google.com/)
-1- Faça uma conta no Google Cloud.
-2- Ative a API Speech-To-Text e Translate em seu console Google Cloud.
+1. Faça uma conta no Google Cloud.
+2. Ative a API Speech-To-Text e Translate em seu console Google Cloud.
 ´´´
-1- Insira sua key no arquivo credenciais.json na chave 'apiKeyGoogleCloud'.
-2- Crie uma autenticação de API no Google Cloud, [Artigo ensinado](https://cloud.google.com/video-intelligence/docs/common/auth?hl=pt-br), baixe sua atenticação em json, e copie seu conteúdo para o arquivo credenciais.json.
+1. Insira sua key no arquivo credenciais.json na chave 'apiKeyGoogleCloud'.
+2. Crie uma autenticação de API no Google Cloud, [Artigo ensinado](https://cloud.google.com/video-intelligence/docs/common/auth?hl=pt-br), baixe sua atenticação em json, e copie seu conteúdo para o arquivo credenciais.json.
 ´´´
 
 ### Hand Talk API Libras
