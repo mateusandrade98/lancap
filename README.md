@@ -20,8 +20,8 @@ Obrigado!!!
 python3 -m pip install -r requerimentos.txt
 ´´´
 ### Tecnologias
-Google Speech-To-Text [API de Deep Learning da Google para reconhecimento e transcrição de fala](https://cloud.google.com/gcp/)
-Google Translate [API de Deep Learning da Google para tradução simultânea de línguagens](https://cloud.google.com/translate/)
+1. Google Speech-To-Text [API de Deep Learning da Google para reconhecimento e transcrição de fala](https://cloud.google.com/gcp/)
+2. Google Translate [API de Deep Learning da Google para tradução simultânea de línguagens](https://cloud.google.com/translate/)
 
 ### Google Cloud
 Acesse: [Google Cloud](https://cloud.google.com/)
