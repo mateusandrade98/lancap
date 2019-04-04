@@ -14,8 +14,8 @@ O LanCap é um software open source, criado para legendar vídeos para libras e 
 - ffmpeg
 
 ## Instalação, Tecnologias e Depedências
-**No desenvolvimento foi usado o Python3, com o linux mint 19.2**
-Commando uname -a:
+**No desenvolvimento foi utilizado o Python3, com o linux mint 19.2**
+- uname -a:
 ```
 Linux joandeson 4.15.0-46-generic #49-Ubuntu SMP Wed Feb 6 09:33:07 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
 ```
