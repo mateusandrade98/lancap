@@ -29,10 +29,8 @@ python3 -m pip install -r requerimentos.txt
 Acesse: [Google Cloud](https://cloud.google.com/)
 1. Faça uma conta no Google Cloud.
 2. Ative a API Speech-To-Text e Translate em seu console Google Cloud.
-´´´
 3. Insira sua key no arquivo credenciais.json na chave 'apiKeyGoogleCloud'.
 4. Crie uma autenticação de API no Google Cloud, [Artigo ensinado](https://cloud.google.com/video-intelligence/docs/common/auth?hl=pt-br), baixe sua atenticação em json, e copie seu conteúdo para o arquivo credenciais.json.
-´´´
 
 ### Hand Talk API Libras
 Nesse exemplo usei a API Trial de 15 dias, já que o Open Source VLibras esta fora do ar nesse dia 04/04/2019 as 23:49m. Para criar uma conta você precisa entrar em contato com a equipe pedindo acesso a sua plataforma usando o trial. Acesse [Hand Talk](https://handtalk.me/) a maior plataforma de tradução para Libras do Brasil.
