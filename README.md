@@ -16,9 +16,10 @@ Obrigado!!!
 4. Linux(ainda)
 
 ### Depedências
-´´´
+```
 python3 -m pip install -r requerimentos.txt
-´´´
+```
+
 ### Tecnologias
 1. Google Speech-To-Text [API de Deep Learning da Google para reconhecimento e transcrição de fala](https://cloud.google.com/gcp/)
 2. Google Translate [API de Deep Learning da Google para tradução simultânea de línguagens](https://cloud.google.com/translate/)
@@ -39,9 +40,10 @@ Após a criação da sua conta, configure conforme dito no parágrafo 'Renderiza
 
 ## Executando o programa
 Após a instalação das depedências e configurações execute o programa usando o seguinte comando:
-´´´
+```
 python3 lancap.py <local_do_video/nome_do_video.mp4>(recomendado colocar o vídeo para dentro da pasta do programa e executa somente com o <nome_do_video.mp4>)
-´´´
+```
+
 ## Renderização
 A API do Hand Talk por limitações e questões de segurança só permite o acesso através de um domínio verificado na plataforma da sua conta. Exemplo: eu tenho um domínio joandeson.ufpb.br, quando configuro minha API somente esse domínio terá um resultado válido da API, mas para teste é possível criar um domínio local. subindo apache simples, você poderá através do arquivo de sistema hosts apontar o DNS para seu localhost. [Artigo ensinando como criar um domínio local](https://support.rackspace.com/how-to/modify-your-hosts-file/)(use domínios não existente, você pode precisar do domínio um dia,tipo google.com rs). após o processo de criação do domínio, registre o domínio na sua plataforma [Hand Talk](http://account.handtalk.me/) e copie a pasta criada no processo citado em 'Executando o programa' para a pasta apache do seu domínio localhost, acesse o video.html, agora veja o resultado.
 
