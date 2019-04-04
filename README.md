@@ -34,13 +34,13 @@ sudo apt-get install ffmpeg
 ```
 
 ### Tecnologias
-- Google Speech-To-Text [Google Speech-To-Text](https://cloud.google.com/speech-to-text/)
+- [Google Speech-To-Text](https://cloud.google.com/speech-to-text/)
 Conversão de fala em texto baseada em aprendizado de máquina e disponível para áudio de formato curto ou longo.
 
-- Google Translate [Google Cloud Translate](https://cloud.google.com/translate/)
+- [Google Cloud Translate](https://cloud.google.com/translate/)
 O Cloud Translation oferece uma API que usa modelos pré-treinados e a capacidade de criar modelos personalizados específicos às suas necessidades, usando a Tradução AutoML.
 
-- ffmpeg [FFMPEG](https://ffmpeg.org/)
+- [FFmpeg](https://ffmpeg.org/)
 Uma solução completa e multiplataforma para gravar, converter e transmitir áudio e vídeo.
 
 ### Google Cloud
